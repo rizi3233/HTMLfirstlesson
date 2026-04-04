@@ -1,5 +1,5 @@
 # HTMLfirstlesson
 
-this is a repository for HTML lesson 33
+this is a repository for HTML lesson 36
 
 cmon
